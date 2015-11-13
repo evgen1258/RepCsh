@@ -10,9 +10,28 @@ namespace Sneke
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Helo World");
+            
+            int x1=1;
+            int y1 = 3;
+            char sym1 = '*';
+            Proba(x1, y1, sym1);
+            int x2 = 2;
+            int y2 = 5;
+            char sym2 = '#';
+            Proba(x2, y2, sym2);
+
+            
             Console.ReadKey();
 
         }
+        static void Proba(int x, int y, char sym)
+        {
+            Console.SetCursorPosition(x, y);
+            Console.Write(sym);
+        }
+
+
+    
+
     }
 }
