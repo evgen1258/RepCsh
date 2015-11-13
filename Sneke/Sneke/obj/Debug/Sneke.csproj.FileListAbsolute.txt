@@ -1,0 +1,6 @@
+D:\RepCsh\Sneke\Sneke\bin\Debug\Sneke.exe.config
+D:\RepCsh\Sneke\Sneke\bin\Debug\Sneke.exe
+D:\RepCsh\Sneke\Sneke\bin\Debug\Sneke.pdb
+D:\RepCsh\Sneke\Sneke\obj\Debug\Sneke.csprojResolveAssemblyReference.cache
+D:\RepCsh\Sneke\Sneke\obj\Debug\Sneke.exe
+D:\RepCsh\Sneke\Sneke\obj\Debug\Sneke.pdb
